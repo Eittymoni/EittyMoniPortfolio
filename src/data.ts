@@ -121,26 +121,25 @@ export const experience: Experience[] = [
 ];
 
 export const projects: Project[] = [
-  {
-    title: "Beautiful Travel Website",
-    description:
-      "A modern travel booking platform that provides flight search, travel packages, and seamless booking experiences. Integrated live flight data API, Firebase authentication, and dynamic booking flows with real-time pricing.",
-    tags: [
-      "React 18",
-      "TypeScript",
-      "Vite",
-      "Tailwind CSS",
-      "Firebase Auth",
-      "React Router",
-      "REST API",
-      "Lucide React",
-    ],
-    image:
-      "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    liveUrl: "https://beautiful-travel-website.netlify.app/",
-    repoUrl: "https://github.com/Eittymoni/Beautiful-Travel-Website",
-    featured: true,
-  },
+ {
+  title: "Explore the World with Jafok",
+  description:
+    "A modern travel booking platform built with Next.js and TypeScript. Users can search flights, explore destinations, browse hotels, and enjoy a fast, responsive booking experience with server-side rendering and optimized performance.",
+  tags: [
+    "Next.js",
+    "TypeScript",
+    "React",
+    "Tailwind CSS",
+    "App Router",
+    "REST API",
+    "Responsive Design",
+  ],
+  image:
+    "https://images.pexels.com/photos/3155666/pexels-photo-3155666.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  liveUrl: "https://deploy-preview-1--jafok.netlify.app/",
+  repoUrl: "https://github.com/Eittymoni/Jafok.com",
+  featured: true,
+},
   {
     title: "AI Car Wrap Visualizer",
     description:
